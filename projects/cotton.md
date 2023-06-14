@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Routine.png
+image: img/workout.jpeg
 title: "Routine"
 date: 2023
 published: true
@@ -20,6 +20,6 @@ Utilized Sessions to program a user’s login and signup authentication experien
 "
 ---
 
-<img class="img-fluid" src="../img/Routine.png">
+<img class="img-fluid" src="../img/workout.jpeg">
 
 Routine is a personalized workout Routine tracker. It helps you track the weight, reps, and exercise you are doing each day in the gym. This app was my second app ever built and I wanted something that would help me with one of my hobbies, working out. I am happy with how it turned out and am constantly updating my applications to satisfy the user.
