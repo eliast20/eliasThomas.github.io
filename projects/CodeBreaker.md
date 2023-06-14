@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width="500px" src="../img/Mastermind.jpeg">
+image: img/Mastermind.jpeg
 title: "Mastermind"
 date: 2023
 published: loading...
