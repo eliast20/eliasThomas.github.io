@@ -15,7 +15,7 @@ labels:
   - MongoDB
 summary: "Created and designed a full-stack web app following full RESTful routing and giving the user access to full CRUD functionality.
 Saved user input through the server-side Mongoose database using MongoDB.
-Rendered the front-end with EJS templates.
+Rendered the front end with EJS templates.
 Utilized Sessions to program a user’s login and signup authentication experience.
 "
 ---
