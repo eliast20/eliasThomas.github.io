@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/workout Small.jpeg
+image: img/workoutSmall.jpeg
 title: "Routine"
 date: 2023
 published: true
