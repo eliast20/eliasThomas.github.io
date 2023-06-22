@@ -5,7 +5,7 @@ image: <img width="200px"
      src="../img/Mastermind.jpeg" >
 title: "Mastermind"
 date: 2023
-published: loading...
+published: true
 labels:
   - Javascript
   - HTML
