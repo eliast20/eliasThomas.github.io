@@ -36,8 +36,8 @@
       "institution": "GENERAL ASSEMBLY | REMOTE ",
       "area": "Full-stack software engineering immersive student in an intensive, twelve-week, 450+ hour program focused on product development fundamentals, object-oriented programming, MVC frameworks, data modeling, and team collaboration strategies. Developed a portfolio of individual and group projects.",
       "studyType": "Software Engineering",
-      "startDate": "1/23/23",
-      "endDate": "4/17/23",
+      "startDate": "1/23",
+      "endDate": "4/23",
       "courses": [
       ]
     }
@@ -47,8 +47,8 @@
       "institution": "High Point University | High Point, NC",
       "area": "Bachelor of Science in Business Administration - Completed 2 years of study",
       "studyType": "Business Administration",
-      "startDate": " 8/20/20",
-      "endDate": "5/20/22",
+      "startDate": " 8/20",
+      "endDate": "5/22",
       "courses": [
       ]
     }
@@ -57,8 +57,8 @@
     {
       "company": "Boatyard | Surf City, NJ",
       "position": "Associate",
-      "startDate": "5/28/22 ",
-      "endDate": "9/1/22",
+      "startDate": "5/22 ",
+      "endDate": "9/22",
       "summary": "Maintained, managed, and delegated store operational procedures on a day-to-day basis.",
       "highlights": [
         "Lead product education training for associates",
@@ -69,8 +69,8 @@
       "company": "Arteriors,  Sales Associate | Greensboro, NC",
       "position": "Sales Associate",
       "website": "https://www.arteriorshome.com/",
-      "startDate": "3/15/22",
-      "endDate": "3/22/22",
+      "startDate": "3/22",
+      "endDate": "3/22",
       "summary": "Provided clients assistance to negotiate prices and persuaded them to buy our product",
       "highlights": [
         "Created a luxury client experience by providing a client-focused relationship which included educating the client on each item, shipping, and delivery services",
